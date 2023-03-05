@@ -1,0 +1,13 @@
+.cont{
+    -webkit-box-shadow: 0px 0px 20px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 20px -3px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 20px -3px rgba(0,0,0,0.75);
+}
+
+.arrow{
+    font-size: 40px;
+}
+.arrow:hover{
+    text-shadow: 0px 0px 8px #615757;
+    transition: .3s;
+}
